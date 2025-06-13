@@ -1,6 +1,6 @@
 # Análise de Evasão de Clientes (Churn) na Telecom X
 
-Este projeto consiste na análise exploratória de dados para identificar os fatores que levam os clientes da Telecom X a cancelar seus serviços. O objetivo é fornecer insights que possam ser utilizados para desenvolver estratégias de retenção de clientes eficazes.
+Este projeto consiste na análise exploratória de dados para identificar os fatores que levam os clientes da Telecom X a cancelar seus serviços. O objetivo é fornecer insights que possam ser utilizados para desenvolver estratégias eficazes de retenção de clientes.
 
 ## Sumário
 
