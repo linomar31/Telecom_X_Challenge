@@ -32,7 +32,7 @@ A análise exploratória utilizou visualizações gráficas para identificar pad
 
 Este gráfico mostra a proporção de clientes que cancelaram em relação ao total.
 
-![Distribuição de Churn](https://github.com/ingridcristh/challenge2-data-science/blob/main/churn_distribution.png)
+![Distribuição de Churn](https://github.com/linomar31/Telecom_X_Challenge/blob/main/gr%C3%A1ficos/cancelaram%20ou%20n%C3%A3o.png)
 
 ### Distribuição de Cancelamento por Gênero
 
